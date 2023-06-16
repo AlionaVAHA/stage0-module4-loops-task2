@@ -3,6 +3,7 @@ import java.lang.Math;
 
 public class PowerOfTwo {
     public void printPower(int power) {
+        int number =2;
         if (power<0){
             System.out.println("too much power");
         }
